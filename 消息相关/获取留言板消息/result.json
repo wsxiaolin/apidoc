@@ -1,0 +1,74 @@
+{
+  "Message": "",
+  "Data": {
+    "$type": "Quantum.Models.Packages.CommentsPackage`1[[Quantum.Models.Users.User, Quantum Models]], Quantum Models",
+    "Target": {
+      "ID": "6666ff550b5f97d6e49d12d7",
+      "Nickname": "微小的临",
+      "Signature": null,
+      "Verification": null,
+      "Avatar": 0,
+      "AvatarRegion": 0,
+      "Decoration": 0,
+      "Gold": 0,
+      "Diamond": 0,
+      "Fragment": 0,
+      "Level": 1,
+      "Experience": 0,
+      "Prestige": 0,
+      "Subscription": 0,
+      "SubscriptionUntil": "0001-01-01T00:00:00",
+      "IsBinded": false,
+      "Regions": [],
+      "Socials": {}
+    },
+    "Count": 3,
+    "Comments": [
+      {
+        "TargetID": "6666ff550b5f97d6e49d12d7",
+        "Replies": [],
+        "ID": "666708a6d46f35b9aadbd125",
+        "UserID": "6666ff550b5f97d6e49d12d7",
+        "Nickname": "微小的临",
+        "Verification": null,
+        "Avatar": 0,
+        "Content": "回复<user=6666ff550b5f97d6e49d12d7>@微小的临</user>: 回复消息A",
+        "Language": "Chinese",
+        "Timestamp": 1718028454997,
+        "Hidden": false,
+        "Flags": null
+      },
+      {
+        "TargetID": "6666ff550b5f97d6e49d12d7",
+        "Replies": [],
+        "ID": "6667081fd46f35b9aadbd0e1",
+        "UserID": "6666ff550b5f97d6e49d12d7",
+        "Nickname": "微小的临",
+        "Verification": null,
+        "Avatar": 0,
+        "Content": "消息B",
+        "Language": "Chinese",
+        "Timestamp": 1718028319656,
+        "Hidden": false,
+        "Flags": null
+      },
+      {
+        "TargetID": "6666ff550b5f97d6e49d12d7",
+        "Replies": [],
+        "ID": "666707dbd46f35b9aadbd0c0",
+        "UserID": "6666ff550b5f97d6e49d12d7",
+        "Nickname": "微小的临",
+        "Verification": null,
+        "Avatar": 0,
+        "Content": "消息A",
+        "Language": "Chinese",
+        "Timestamp": 1718028251352,
+        "Hidden": false,
+        "Flags": null
+      }
+    ]
+  },
+  "Status": 200,
+  "Token": "oXDdZ*****asz",
+  "AuthCode": null
+}

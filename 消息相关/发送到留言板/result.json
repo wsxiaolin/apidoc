@@ -1,0 +1,23 @@
+{
+  "Message": "",
+  "Data": {
+    "$type": "Quantum.Models.Messages.Comment, Quantum Models",
+    "TargetID": "64df27eb738530998da62927",
+    "Replies": [
+
+        ],
+    "ID": "66670d16d46f35b9aadbd362",
+    "UserID": "6666ff550b5f97d6e49d12d7",
+    "Nickname": "微小的临",
+    "Verification": null,
+    "Avatar": 0,
+    "Content": "消息B",
+    "Language": "Chinese",
+    "Timestamp": 1718029590721,
+    "Hidden": false,
+    "Flags": null
+  },
+  "Status": 200,
+  "Token": "oX*****asz",
+  "AuthCode": null
+}
