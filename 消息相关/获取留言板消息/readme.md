@@ -4,7 +4,7 @@
 
 ### 接口URL
 
-- POST http://physics-api-cn.turtlesim.com:443/Messages/GetComments
+- POST https://physics-api-cn.turtlesim.com:443/Messages/GetComments
 
 ### 请求体
 
@@ -12,7 +12,7 @@
 {
     "TargetID": "6666ff550b5f97d6e49d12d7",
     "TargetType": "User",
-    "CommentID": "6666ff550b5f97d6e49d12d7",
+    "CommentID": null,
     "Take": 16,
     "Skip": 0
 }
