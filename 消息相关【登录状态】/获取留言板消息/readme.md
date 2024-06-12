@@ -2,6 +2,8 @@
 
 该API用于用户获取自己或他人留言板消息
 
+注意：Token请提供登录状态下的token，[完整流程](/nodejs/tests/Messages_GetComments.js)
+
 ### 接口URL
 
 - POST https://physics-api-cn.turtlesim.com:443/Messages/GetComments
